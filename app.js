@@ -5,9 +5,6 @@ const CONFIG = {
   spotify: "https://open.spotify.com/",
   youtube: "https://youtube.com/",
   beats: [
-    // Ejemplo: {title:"Midnight", description:"Trap oscuro · 140 BPM · C#m", price:8000, type:"WAV", cover:"covers/midnight.jpg", audio:"audio/midnight.mp3", free:false, link:""}
-  // link: URL para comprar/consultar. Si está vacío, se abre un email preparado.
-  // Para beats gratis: free:true y link a la descarga.
   ]
 };
 const $=s=>document.querySelector(s);
